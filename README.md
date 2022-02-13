@@ -7,6 +7,6 @@
 <h1>Installasi</h1>
 <p>Installasi dapat dilakukan dengan mendownload file css disini.setelah mendownload file UI Dynamic. tambahkan file uidynamic.css,uidynamic1.js, dan uidynamic2.js ke dalam file project yang akan anda kerjakan, dan jangan lupa juga sispkan link ke dalam file html anda sperti pada gambar dibawah.</p>
 <img src="https://uidynamic.github.io/assets/images/sc1.png" width="600px">
-<h4>Cara Penggunaan</h4>
+<h3>Cara Penggunaan</h3>
 <p>Bagaimana cara penggunaannya ?. Setelah anda mendownload file uidynamics dan melakukan konfigurasi pada proyek anda. Sekarang saatnya untuk menyematkan element yang sudah anda tentukan. Jika belum silahkan masuk ke menu components dan pilih sesuai group, dan yang terakhir anda hanya perlu untuk mengcopy soirce code pada web ini dam sematkan pada project anda. Maka elements pilihan anda telah siap digunakan. seperti pada gambar.</p>
 
