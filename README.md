@@ -22,5 +22,16 @@
  <h3>Grup Elemen</h3>
  <ul>
   <li><a href="https://uidynamic.github.io/socialandreviews.html">Social and Reviews</a></li>
+  <li><a href="https://uidynamic.github.io/marketplace.html">Marketplace</a></li>
+  <li><a href="https://uidynamic.github.io/payment.html">Payment</a></li>
+  <li><a href="https://uidynamic.github.io/sign.html">Sign</a></li>
+  <li><a href="https://uidynamic.github.io/pricing.html">Pricing</a></li>
+  <li><a href="https://uidynamic.github.io/general.html">General</a></li>
+  <li><a href="https://uidynamic.github.io/table.html">Table</a></li>
+  <li><a href="https://uidynamic.github.io/button.html">Button</a></li>
+  <li><a href="https://uidynamic.github.io/videoplayer.html">Video Player</a></li>
+  <li><a href="https://uidynamic.github.io/team.html">Team</a></li>
+  <li><a href="https://uidynamic.github.io/frequentlyaskedquestion.html">Frequently Asked Question</a></li>
+  <li><a href="https://uidynamic.github.io/menu.html">Menu</a></li>
  </ul>
 
