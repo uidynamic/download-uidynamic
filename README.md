@@ -2,7 +2,7 @@
 
 <h1>Ui Dynamic</h1>
 <p>Ui Dynamic merupakan sebuah UI / UX Kit yang digunakan untuk mempermudan Frond-End Development pada sebuah website. Kit ini memiliki lebih dari 100 buah element yang terbagi kedalam 12 group yang berbeda, yang akan mempermudah pengembangan websitemu. Ayo dengan gratis coba sekarang juga !</p>
-<h1>Bagaimana Memulainya ?</h1>
+<h2>Bagaimana Memulainya ?</h2>
 <p>Ui Dynamic di buat untuk membantu proses pengembangan Front-End Website yang memiliki 10 group elemen yang mana elemen di dalamnya dapat disesuaikan dengan kebutuhan pengembangan website itu sendiri.</p>
 <h3>Installasi</h3>
 <p>Installasi dapat dilakukan dengan mendownload file css disini.setelah mendownload file UI Dynamic. tambahkan file uidynamic.css,uidynamic1.js, dan uidynamic2.js ke dalam file project yang akan anda kerjakan, dan jangan lupa juga sispkan link ke dalam file html anda sperti pada gambar dibawah.</p>
@@ -18,5 +18,9 @@
   <li>Safari</li>
   <li>Opera</li>
  </ul>
- <h1>Dokumentasi</h1>
+ <h2>Dokumentasi</h2>
+ <h3>Grup Elemen</h3>
+ <ul>
+  <li><a href="https://uidynamic.github.io/socialandreviews.html"></a>Social and Reviews</li>
+ </ul>
 
