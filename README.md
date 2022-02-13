@@ -13,5 +13,10 @@
 <p>Produk Kit ini dapat digunakan dalam Browser seperti berikut :</p>
 <ul>
   <li>Chrome</li>
- </il>
+  <li>Microsoft Edge</li>
+  <li>Firefox</li>
+  <li>Safari</li>
+  <li>Opera</li>
+ </ul>
+ <h1>Dokumentasi</h1>
 
