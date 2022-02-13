@@ -21,6 +21,6 @@
  <h2>Dokumentasi</h2>
  <h3>Grup Elemen</h3>
  <ul>
-  <li><a href="https://uidynamic.github.io/socialandreviews.html"></a>Social and Reviews</li>
+  <li><a href="https://uidynamic.github.io/socialandreviews.html">Social and Reviews</a></li>
  </ul>
 
