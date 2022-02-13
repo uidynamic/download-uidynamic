@@ -34,4 +34,4 @@
   <li><a href="https://uidynamic.github.io/frequentlyaskedquestion.html">Frequently Asked Question</a></li>
   <li><a href="https://uidynamic.github.io/menu.html">Menu</a></li>
  </ul>
-
+Made On Earth By Human. All rights reserved © 2022.
