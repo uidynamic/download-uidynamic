@@ -44,6 +44,7 @@ body {
   padding: 15px;
   
 }
+
 .row::after {
 	content: "";
 	display: table;
